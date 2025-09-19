@@ -11,3 +11,8 @@ git status
 git add arch1
 git commit -m "segundo commit rama master"
 ges status
+
+git log --oneline
+git checkout ID1
+
+git checkout master
