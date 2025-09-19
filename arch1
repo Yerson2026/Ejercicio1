@@ -1,4 +1,5 @@
-primer commit branch master
-primer commit rama master
+echo "primer commit branch master"
+git status
+git add arch1
 git status
 
