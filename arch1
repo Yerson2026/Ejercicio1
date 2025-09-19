@@ -3,3 +3,5 @@ git status
 git add arch1
 git status
 
+echo "para segundo commit ">>arch1
+git status
